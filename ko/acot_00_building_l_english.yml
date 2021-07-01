@@ -1,8 +1,8 @@
 ﻿l_english:
 
-mod_country_resource_max_acot_sr_dark_energy_add: "최대 암흑 에너지 보유량"
-mod_country_resource_max_sr_dark_matter_add: ""
-mod_planet_jobs_acot_sr_dark_energy_produces_mult: ""
+mod_country_resource_max_acot_sr_dark_energy_add: ""
+mod_country_resource_max_sr_dark_matter_add: "최대 암흑 물질 보유량"
+mod_planet_jobs_acot_sr_dark_energy_produces_mult: "암흑 에너지 생산 증가"
 mod_planet_jobs_sr_dark_matter_produces_mult: ""
 
 ################################################ COLONIZING ########################
@@ -151,10 +151,6 @@ tech_super_assembly_ae: ""
 tech_super_assembly_ae_desc: ""
 
 ############################# BIO #############################
-
-building_fe_clone_vats:
-
-building_fe_clone_vats_desc:
 
 building_ae_clone_vats: ""
 building_ae_clone_vats_desc: ""
@@ -329,8 +325,6 @@ building_fe_institute: ""
 building_fe_institute_desc: ""
 building_ae_institute: ""
 building_ae_institute_desc: ""
-tech_fe_institute:
-
 tech_fe_institute_desc: ""
 tech_ae_institute: ""
 tech_ae_institute_desc: ""
@@ -399,8 +393,6 @@ tech_ae_ancient_cryo_chamber_desc: ""
 
 building_fe_hive_depot: ""
 building_fe_hive_depot_desc: ""
-building_ae_hive_depot:
-
 building_ae_hive_depot_desc: ""
 tech_fe_hive_depot: ""
 tech_fe_hive_depot_desc: ""
@@ -485,8 +477,6 @@ building_ae_ancient_cryo_chamber_desc: ""
 ######################## OLD TECH ########################
 
 tech_fe_galactic_trade_enclave: ""
-tech_fe_galactic_trade_enclave_desc:
-
 tech_fe_heaven_dome: ""
 tech_fe_heaven_dome_desc: ""
 tech_fe_visitor_center: ""
