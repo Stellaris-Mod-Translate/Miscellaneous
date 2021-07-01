@@ -5,7 +5,7 @@
 
 acot_modifier_precursor_digsite: "고대 세상"
 acot_modifier_precursor_digsite_desc: "하이a"
-sites_acot_old_warfield: ""
+sites_acot_old_warfield: "테스트"
 acot_old_warfield_digsite_desc: ""
 acot_digsite_events.1.name: ""
 acot_digsite_events.1.desc: ""
