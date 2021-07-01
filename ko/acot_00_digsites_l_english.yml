@@ -4,7 +4,7 @@
 ######################### VAULT OF SORROW ###################################
 
 acot_modifier_precursor_digsite: "고대 세상"
-acot_modifier_precursor_digsite_desc: "하이"
+acot_modifier_precursor_digsite_desc: "하이a"
 sites_acot_old_warfield: ""
 acot_old_warfield_digsite_desc: ""
 acot_digsite_events.1.name: ""
@@ -160,3 +160,4 @@ acot_digsite_events.10043.a: ""
 
 ###############
 
+ACOT_MEME_PIRATE_CORVETTE: ""
