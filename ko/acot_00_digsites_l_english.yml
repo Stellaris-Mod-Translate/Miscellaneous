@@ -4,12 +4,14 @@
 ######################### VAULT OF SORROW ###################################
 
 acot_modifier_precursor_digsite: "고대 세상"
-acot_modifier_precursor_digsite_desc: ""
+acot_modifier_precursor_digsite_desc: "하이"
 sites_acot_old_warfield: ""
 acot_old_warfield_digsite_desc: ""
 acot_digsite_events.1.name: ""
 acot_digsite_events.1.desc: ""
-######################### CHAPTER ONE ###################################: ""
+
+######################### CHAPTER ONE ###################################
+
 acot_digsite_events.2.name: ""
 acot_digsite_events.2.desc.stupid: ""
 acot_digsite_events.2.desc.smart: ""
@@ -23,7 +25,9 @@ acot_digsite_events.2.d: ""
 acot_digsite_events.2.d.explain: ""
 acot_digsite_events.2.e: ""
 acot_digsite_events.2.e.explain: ""
-######################### CHAPTER TWO ###################################: ""
+
+######################### CHAPTER TWO ###################################
+
 acot_digsite_events.3.name: ""
 acot_digsite_events.3.a.desc: ""
 acot_digsite_events.3.a.1: ""
@@ -42,7 +46,9 @@ acot_digsite_events.301.a: ""
 acot_digsite_events.302.name: ""
 acot_digsite_events.302.desc: ""
 acot_digsite_events.302.a: ""
-######################### CHAPTER THREE ###################################: ""
+
+######################### CHAPTER THREE ###################################
+
 acot_digsite_events.4.name: ""
 acot_digsite_events..4.name: ""
 acot_digsite_events.4.a.desc: ""
@@ -56,7 +62,9 @@ acot_digsite_events.4.b.3: ""
 acot_digsite_events.4.b.3.explain: ""
 acot_digsite_events.4.b.4: ""
 acot_digsite_events.4.b.4.explain: ""
-######################### CHAPTER FOUR ###################################: ""
+
+######################### CHAPTER FOUR ###################################
+
 acot_digsite_events.5.name: ""
 acot_digsite_events.5.a.desc: ""
 acot_digsite_events.5.a.1: ""
@@ -78,7 +86,9 @@ acot_digsite_events.5.d.3: ""
 acot_digsite_events.5.d.3.explain: ""
 acot_digsite_events.5.e.desc: ""
 acot_digsite_events.5.e.1: ""
-######################### CHAPTER FIVE ###################################: ""
+
+######################### CHAPTER FIVE ###################################
+
 acot_digsite_events.6.name: ""
 acot_digsite_events.6.a.name: ""
 acot_digsite_events.6.a.desc: ""
@@ -95,7 +105,9 @@ acot_digsite_events.6.c.2: ""
 acot_digsite_events.6.c.2.explain: ""
 acot_digsite_events.6.d.1: ""
 acot_digsite_events.6.d.1.explain: ""
-######################### CHAPTER FINAL ###################################: ""
+
+######################### CHAPTER FINAL ###################################
+
 acot_digsite_events.7.name: ""
 acot_digsite_events.7.a.desc: ""
 acot_digsite_events.7.a.1: ""
@@ -145,4 +157,6 @@ acot_digsite_events.10042.b: ""
 acot_digsite_events.10043.name: ""
 acot_digsite_events.10043.desc: ""
 acot_digsite_events.10043.a: ""
-###############: ""
+
+###############
+
