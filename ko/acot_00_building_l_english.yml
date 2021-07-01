@@ -3,7 +3,7 @@
 mod_country_resource_max_acot_sr_dark_energy_add: "최대 암흑 에너지 보유량"
 mod_country_resource_max_sr_dark_matter_add: "최대 암흑 물질 보유량"
 mod_planet_jobs_acot_sr_dark_energy_produces_mult: "암흑 에너지 생산 증가"
-mod_planet_jobs_sr_dark_matter_produces_mult: ""
+mod_planet_jobs_sr_dark_matter_produces_mult: "암흑 물질 생산 증가"
 
 ################################################ COLONIZING ########################
 
@@ -42,26 +42,26 @@ decision_acot_supercharged_pylon: ""
 decision_acot_supercharged_pylon_desc: ""
 decision_acot_end_supercharged_pylon: ""
 decision_acot_end_supercharged_pylon_desc: ""
-acot_modifier_supercharged_pylon: ""
-acot_modifier_supercharged_pylon_desc: ""
-tech_acot_supercharged_pylon: ""
 
 ########################
 
+acot_modifier_supercharged_pylon: ""
+acot_modifier_supercharged_pylon_desc: ""
+tech_acot_supercharged_pylon: ""
 tech_acot_supercharged_pylon_desc: ""
 tech_acot_stacking_network: ""
 tech_acot_stacking_network_desc: ""
 tech_acot_stacking_network_tooltip: ""
-tech_acot_fractured_autoharvesting: ""
-tech_acot_fractured_autoharvesting_desc: ""
-tech_acot_fractured_autoharvesting_tooltip: ""
 
 ################################################ BUILDING TEXTS ########################
 
-decision_open_chambers_menu: ""
+tech_acot_fractured_autoharvesting: ""
+tech_acot_fractured_autoharvesting_desc: ""
 
 ######################## CAPITALOS ########################
 
+tech_acot_fractured_autoharvesting_tooltip: ""
+decision_open_chambers_menu: ""
 decision_open_chambers_menu_desc: ""
 decision_open_assembly_menu: ""
 decision_open_assembly_menu_desc: ""
@@ -76,103 +76,103 @@ tech_dm_ancient_palace: ""
 tech_dm_ancient_palace_desc: ""
 tech_ae_ancient_palace: ""
 tech_ae_ancient_palace_desc: ""
-building_dm_ancient_control_center: ""
-building_dm_ancient_control_center_desc: ""
-building_ae_ancient_control_center: ""
-building_ae_ancient_control_center_desc: ""
-tech_dm_ancient_control_center: ""
 
 ######################## POPULATION ########################
 
-tech_dm_ancient_control_center_desc: ""
-tech_ae_ancient_control_center: ""
+building_dm_ancient_control_center: ""
+building_dm_ancient_control_center_desc: ""
+building_ae_ancient_control_center: ""
 
 ### HOSPITAL ##
 
+building_ae_ancient_control_center_desc: ""
+tech_dm_ancient_control_center: ""
+tech_dm_ancient_control_center_desc: ""
+tech_ae_ancient_control_center: ""
 tech_ae_ancient_control_center_desc: ""
 building_dm_ancient_hive_cluster: ""
 building_dm_ancient_hive_cluster_desc: ""
+
+### SPAWN POOL ###
+
 building_ae_ancient_hive_cluster: ""
 building_ae_ancient_hive_cluster_desc: ""
 tech_dm_ancient_hive_cluster: ""
 tech_dm_ancient_hive_cluster_desc: ""
-
-### SPAWN POOL ###
-
 tech_ae_ancient_hive_cluster: ""
-tech_ae_ancient_hive_cluster_desc: ""
-building_fe_hospital: ""
-building_fe_hospital_desc: ""
 
 ### ASSEMBLY ###
 
+tech_ae_ancient_hive_cluster_desc: ""
+building_fe_hospital: ""
+building_fe_hospital_desc: ""
 building_ae_hospital: ""
 building_ae_hospital_desc: ""
 tech_fe_hospital: ""
 tech_fe_hospital_desc: ""
 tech_ae_hospital: ""
 tech_ae_hospital_desc: ""
+
+############################# BIO #############################
+
 building_fe_hive_pool: ""
 building_fe_hive_pool_desc: ""
 building_ae_hive_pool: ""
 building_ae_hive_pool_desc: ""
-
-############################# BIO #############################
-
 building_super_assembly: ""
 building_super_assembly_desc: ""
+
+############################# SYNTH #############################
+
 building_ae_super_assembly: ""
 building_ae_super_assembly_desc: ""
 building_super_assembly_machine: ""
 building_super_assembly_machine_desc: ""
 building_ae_super_assembly_machine: ""
-
-############################# SYNTH #############################
-
 building_ae_super_assembly_machine_desc: ""
 tech_super_assembly: ""
 tech_super_assembly_desc: ""
 tech_super_assembly_ae: ""
+
+############################# PSION #############################
+
 tech_super_assembly_ae_desc: ""
 building_ae_clone_vats: ""
 building_ae_clone_vats_desc: ""
 tech_fe_clone_vats: ""
-
-############################# PSION #############################
-
 tech_fe_clone_vats_desc: ""
 tech_ae_clone_vats: ""
 tech_ae_clone_vats_desc: ""
+
+############################# MACHINA #############################
+
 building_fe_synt_center: ""
 building_fe_synt_center_desc: ""
 building_ae_synt_center: ""
 building_ae_synt_center_desc: ""
 tech_fe_synt_center: ""
-
-############################# MACHINA #############################
-
 tech_fe_synt_center_desc: ""
 tech_ae_synt_center: ""
 tech_ae_synt_center_desc: ""
+
+############################# HIVE #############################
+
 building_fe_psi_altar: ""
 building_fe_psi_altar_desc: ""
 building_ae_psi_altar: ""
 building_ae_psi_altar_desc: ""
 tech_fe_psi_altar: ""
-
-############################# HIVE #############################
-
 tech_fe_psi_altar_desc: ""
 tech_ae_psi_altar: ""
 tech_ae_psi_altar_desc: ""
+
+######################## PRODUCTION ########################
+
 building_fe_machine_dome: ""
 building_fe_machine_dome_desc: ""
 building_ae_machine_dome: ""
 building_ae_machine_dome_desc: ""
 tech_fe_machine_dome: ""
-
-######################## PRODUCTION ########################
-
 tech_fe_machine_dome_desc: ""
 tech_ae_machine_dome: ""
 tech_ae_machine_dome_desc: ""
@@ -209,6 +209,9 @@ building_ae_food_processing_complex: ""
 building_ae_food_processing_complex_desc: ""
 tech_fe_food_processing: ""
 tech_fe_food_processing_desc: ""
+
+######################## DM DE ########################
+
 tech_ae_food_processing: ""
 tech_ae_food_processing_desc: ""
 building_fe_transmutor: ""
@@ -217,9 +220,6 @@ building_ae_transmutor: ""
 building_ae_transmutor_desc: ""
 tech_fe_transmutor: ""
 tech_fe_transmutor_desc: ""
-
-######################## DM DE ########################
-
 tech_ae_transmutor: ""
 tech_ae_transmutor_desc: ""
 mod_country_resource_max_alloys_add: ""
@@ -232,6 +232,9 @@ tech_fe_alloy_foundry_desc: ""
 tech_ae_alloy_foundry: ""
 tech_ae_alloy_foundry_desc: ""
 building_fe_factory: ""
+
+######################## RESEARCH ########################
+
 building_fe_factory_desc: ""
 building_ae_factory: ""
 building_ae_factory_desc: ""
@@ -242,12 +245,12 @@ tech_ae_factory_desc: ""
 building_dark_energy_pylon: ""
 building_dark_energy_pylon_desc: ""
 building_ae_dark_energy_pylon: ""
-
-######################## RESEARCH ########################
-
 building_ae_dark_energy_pylon_desc: ""
 tech_dark_energy_pylon: ""
 tech_dark_energy_pylon_desc: ""
+
+######################## DEFENSES ########################
+
 tech_ae_dark_energy_pylon: ""
 tech_ae_dark_energy_pylon_desc: ""
 building_dark_matter_generator: ""
@@ -258,9 +261,6 @@ tech_dark_matter_generator: ""
 tech_dark_matter_generator_desc: ""
 tech_ae_dark_matter_generator: ""
 tech_ae_dark_matter_generator_desc: ""
-
-######################## DEFENSES ########################
-
 building_dark_matter_synthersizer: ""
 building_dark_matter_synthersizer_desc: ""
 building_ae_dark_matter_synthersizer: ""
@@ -274,6 +274,9 @@ tech_mine_dark_energy_desc: ""
 building_enigmatic_lab: ""
 building_enigmatic_lab_desc: ""
 building_ae_enigmatic_lab: ""
+
+######################## OTHERS ########################
+
 building_ae_enigmatic_lab_desc: ""
 tech_enigmatic_lab: ""
 tech_enigmatic_lab_desc: ""
@@ -286,15 +289,15 @@ building_ae_institute_desc: ""
 tech_fe_institute_desc: ""
 tech_ae_institute: ""
 tech_ae_institute_desc: ""
-
-######################## OTHERS ########################
-
 building_dm_stronghold: ""
 building_dm_stronghold_desc: ""
 building_ae_stronghold: ""
 building_ae_stronghold_desc: ""
 tech_dm_stronghold: ""
 tech_dm_stronghold_desc: ""
+
+######################## STELLARITE ########################
+
 tech_ae_stronghold: ""
 tech_ae_stronghold_desc: ""
 building_dark_energy_psg: ""
@@ -302,15 +305,15 @@ building_dark_energy_psg_desc: ""
 building_ae_dark_energy_psg: ""
 building_ae_dark_energy_psg_desc: ""
 tech_dark_energy_psg: ""
+
+######################## PRECURSOR BUILDING ########################
+
 tech_dark_energy_psg_desc: ""
 tech_ae_dark_energy_psg: ""
 tech_ae_dark_energy_psg_desc: ""
 building_giga_fortress: ""
 building_giga_fortress_desc: ""
 building_giga_fortress_array: ""
-
-######################## STELLARITE ########################
-
 building_giga_fortress_array_desc: ""
 building_giga_fortress_lab: ""
 building_giga_fortress_lab_desc: ""
@@ -318,21 +321,24 @@ building_giga_fortress_obelisk: ""
 building_giga_fortress_obelisk_desc: ""
 building_giga_fortress_fe: ""
 building_giga_fortress_fe_desc: ""
-
-######################## PRECURSOR BUILDING ########################
-
 tech_giga_fortress: ""
 tech_giga_fortress_desc: ""
 mod_country_resource_max_consumer_goods_add: ""
 building_fe_mansion: ""
 building_fe_mansion_desc: ""
 building_ae_mansion: ""
+
+#############################
+
 building_ae_mansion_desc: ""
 tech_dark_mansion: ""
 tech_dark_mansion_desc: ""
 tech_ae_dark_mansion: ""
 tech_ae_dark_mansion_desc: ""
 building_dm_ancient_cryo_chamber: ""
+
+######################## OLD TECH ########################
+
 building_dm_ancient_cryo_chamber_desc: ""
 tech_dm_ancient_cryo_chamber: ""
 tech_dm_ancient_cryo_chamber_desc: ""
@@ -342,17 +348,11 @@ building_fe_hive_depot: ""
 building_fe_hive_depot_desc: ""
 building_ae_hive_depot_desc: ""
 tech_fe_hive_depot: ""
-
-#############################
-
 tech_fe_hive_depot_desc: ""
 tech_ae_hive_depot: ""
 tech_ae_hive_depot_desc: ""
 building_stellarite_generator: ""
 building_stellarite_generator_desc: ""
-
-######################## OLD TECH ########################
-
 building_stellarite_nexus: ""
 building_stellarite_nexus_desc: ""
 building_stellarite_generator_ae: ""
