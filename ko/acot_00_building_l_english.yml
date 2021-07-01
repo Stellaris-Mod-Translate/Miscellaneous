@@ -1,14 +1,14 @@
 ﻿l_english:
 
-mod_country_resource_max_acot_sr_dark_energy_add: "최대 암흑 에너지 보유량"
+mod_country_resource_max_acot_sr_dark_energy_add: ""
 mod_country_resource_max_sr_dark_matter_add: ""
 mod_planet_jobs_acot_sr_dark_energy_produces_mult: ""
 mod_planet_jobs_sr_dark_matter_produces_mult: ""
 
 ################################################ COLONIZING ########################
 
-tech_acot_colonize_fractured: ""
-tech_acot_colonize_fractured_desc: ""
+tech_acot_colonize_fractured: "테스트"
+tech_acot_colonize_fractured_desc: "번역 테스트"
 tech_acot_colonize_fractured_ae: ""
 tech_acot_colonize_fractured_ae_desc: ""
 
