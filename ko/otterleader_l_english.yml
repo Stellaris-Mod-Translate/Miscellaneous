@@ -1,7 +1,12 @@
 ﻿l_english:
 
+
+# Leader
+
+
 # Leader: "# 지도자"
-otterleader_event_header: ""
+
+otterleader_event_header: "a"
 otterleader_option_ruler: ""
 otterleader_option_governors: ""
 otterleader_option_scientists: ""
