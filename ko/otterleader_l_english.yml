@@ -1,11 +1,14 @@
 ﻿l_english:
 
 
+# Leader
+
+
 # 지도자
 
-otterleader_event_header: ""
-otterleader_option_ruler: ""
-otterleader_option_governors: ""
+otterleader_event_header: "테스트 0"
+otterleader_option_ruler: "테스트 1"
+otterleader_option_governors: "테스트 2"
 otterleader_option_scientists: ""
 otterleader_option_admirals: ""
 otterleader_option_generals: ""
