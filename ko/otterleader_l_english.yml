@@ -1,21 +1,16 @@
 ﻿l_english:
 
-
-# Leader
-
-otterleader_option_admirals: "제독"
-otterleader_option_generals: "장군"
-otterleader_option_back: "뒤로"
-otterleader_option_done: ""
+otterleader_option_scientists: ""
+otterleader_option_admirals: ""
+otterleader_option_generals: ""
+otterleader_option_back: ""
+otterleader_option_done: "끝"
 otterleader_option_clear_all_NAME: ""
 otterleader_option_clear_all_DESC: ""
 otterleader_option_clear_negative_NAME: ""
 otterleader_option_clear_negative_DESC: ""
 otterleader_option_add_experience_NAME: ""
 otterleader_option_add_experience_DESC: ""
-
-## Experience
-
 otterleader_add_experience_100_NAME: ""
 otterleader_add_experience_100_DESC: ""
 otterleader_add_experience_500_NAME: ""
@@ -26,14 +21,8 @@ otterleader_add_experience_5000_NAME: ""
 otterleader_add_experience_5000_DESC: ""
 otterleader_add_experience_10000_NAME: ""
 otterleader_add_experience_10000_DESC: ""
-
-## Project
-
 otterleader_PROJECT: ""
 otterleader_PROJECT_DESC: ""
-
-# Event
-
 otterleader_a_event_header: ""
 otterleader_g_event_header: ""
 otterleader_gov_event_header: ""
@@ -47,9 +36,6 @@ otterleader_option_category_military: ""
 otterleader_option_category_events: ""
 otterleader_option_category_special: ""
 otterleader_option_category_generic: ""
-
-## General
-
 otterleader_a_leader_trait_trickster_NAME: ""
 otterleader_a_leader_trait_trickster_DESC: ""
 otterleader_a_leader_trait_fleet_logistician_NAME: ""
@@ -153,9 +139,6 @@ otterleader_s_leader_trait_inspired_researcher_NAME: ""
 otterleader_s_leader_trait_inspired_researcher_DESC: ""
 otterleader_s_leader_trait_inspired_surveyor_NAME: ""
 otterleader_s_leader_trait_inspired_surveyor_DESC: ""
-
-## Military
-
 otterleader_r_trait_ruler_corvette_focus_NAME: ""
 otterleader_r_trait_ruler_corvette_focus_DESC: ""
 otterleader_r_trait_ruler_destroyer_focus_NAME: ""
@@ -180,9 +163,6 @@ otterleader_r_leader_trait_fleet_organizer_NAME: ""
 otterleader_r_leader_trait_fleet_organizer_DESC: ""
 otterleader_r_leader_trait_reformer_NAME: ""
 otterleader_r_leader_trait_reformer_DESC: ""
-
-## Expertise
-
 otterleader_s_leader_trait_expertise_materials_NAME: ""
 otterleader_s_leader_trait_expertise_materials_DESC: ""
 otterleader_s_leader_trait_expertise_propulsion_NAME: ""
@@ -207,9 +187,6 @@ otterleader_s_leader_trait_expertise_biology_NAME: ""
 otterleader_s_leader_trait_expertise_biology_DESC: ""
 otterleader_s_leader_trait_expertise_military_theory_NAME: ""
 otterleader_s_leader_trait_expertise_military_theory_DESC: ""
-
-## Events
-
 otterleader_a_leader_trait_sentinel_NAME: ""
 otterleader_a_leader_trait_sentinel_DESC: ""
 otterleader_a_leader_trait_hive_affinity_NAME: ""
@@ -228,9 +205,6 @@ otterleader_a_leader_trait_mercenary_warrior_NAME: ""
 otterleader_a_leader_trait_mercenary_warrior_DESC: ""
 otterleader_a_leader_trait_great_khan_NAME: ""
 otterleader_a_leader_trait_great_khan_DESC: ""
-
-## Special
-
 otterleader_a_leader_trait_admiral_erudite_NAME: ""
 otterleader_a_leader_trait_admiral_erudite_DESC: ""
 otterleader_a_leader_trait_admiral_cyborg_NAME: ""
@@ -297,9 +271,6 @@ otterleader_s_leader_trait_curator_NAME: ""
 otterleader_s_leader_trait_curator_DESC: ""
 otterleader_s_leader_trait_scientist_brainslut_NAME: ""
 otterleader_s_leader_trait_scientist_brainslut_DESC: ""
-
-## Generic
-
 otterleader_leader_trait_adaptable_NAME: ""
 otterleader_leader_trait_adaptable_DESC: ""
 otterleader_leader_trait_resilient_NAME: ""
