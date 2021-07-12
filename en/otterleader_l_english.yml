@@ -2,9 +2,8 @@
 # Leader
 
   otterleader_event_header:0 "Customize Leaders"
-  otterleader_event_description:0 "Customize your leaders"
 
-  otterleader_option_ruler:0 "Ruler"
+  otterleader_option_ruler:0 "Changed String"
   otterleader_option_governors:0 "Governors"
   otterleader_option_scientists:0 "Scientists"
   otterleader_option_admirals:0 "Admirals"
