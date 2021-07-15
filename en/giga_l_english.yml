@@ -1,0 +1,24 @@
+﻿    l_english:
+
+    #############################################################################################################################################
+    ### Megastructure Names #####################################################################################################################
+    #############################################################################################################################################
+    #########################################
+    ### Headers #############################
+    #########################################
+    header_01_gigac:0 "§GGigastructural Constructs§!"
+    header_01_gigac_desc:0 "$header_01_gigac$\nThis technology unlocks a megastructure so large, that it can now be considered Gigastructural Engineering."
+
+    header_02_tetra:0 "§BTetradimensional Engineering§!"
+    header_02_tetra_desc:0 "$header_02_tetra$\nThis technology unlocks a megastructure of such sheer size and scope that it is necessary to employ high-dimensional engineering methods in order to make it work."
+
+    header_03_insane:0 "§RInsane Technology§!"
+    header_03_insane_desc:0 "$header_03_insane$\nThis technology would put our civilization so far ahead of the curve, it's considered insane to believe it could work."
+
+    header_04_lud_insane:0 "§PLudicrously Insane Technology§!"
+    header_04_lud_insane_desc:0 "$header_04_lud_insane$\nThe advancements our civilization would gain from researching this technology are too much for any one being to comprehend."
+
+    header_05_shroud:0 "§MShroud Technology§!"
+    header_05_shroud_desc:0 "$header_05_shroud$\nShroud-related techs will be unlocked by this research path§!"
+
+    
